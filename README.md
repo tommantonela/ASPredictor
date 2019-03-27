@@ -17,7 +17,7 @@ The main functionality consists of three steps, namely: pre-processing, classifi
 **ASPredictor** is licenced under the Apache License V2.0. Copyright 2019 - ISISTAN - UNICEN - CONICET
 
 **Contact information**:
-- _Antonela Tommasel_ (ISISTAN, CONICET-UNICEN. Argentina) antonela.tomasel@isistan.unicen.edu.ar 
+- _Antonela Tommasel_ (ISISTAN, CONICET-UNICEN. Argentina) antonela.tommasel@isistan.unicen.edu.ar 
 - _J. Andres Diaz-Pace_ (ISISTAN, CONICET-UNICEN. Argentina) andres.diazpace@isistan.unicen.edu.ar 
 
 
