@@ -12,9 +12,14 @@ The main functionality consists of three steps, namely: pre-processing, classifi
 
 - _Smell-Pred_. Receives dependency graphs and the predicted dependencies, and identifies potentially ”new” AS in the expanded graph to appear in the next system version, which are ranked according to their relevance. Currently, three types of smells are supported: cyclic dependencies, hub-like dependencies and unstable dependencies.
 
--_Eval_. Compares the predicted dependencies and/or smells with the actual dependencies/smells, and computes typical Machine Learning metrics such as: precision, recall, F-measure and nDCG.
+- _Eval_. Compares the predicted dependencies and/or smells with the actual dependencies/smells, and computes typical Machine Learning metrics such as: precision, recall, F-measure and nDCG.
 
 **ASPredictor** is licenced under the Apache License V2.0. Copyright 2019 - ISISTAN - UNICEN - CONICET
 
-A description of the software's features and usage can be found in the project's [Wiki]().
+**Contact information**:
+- _Antonela Tommasel_ (ISISTAN, CONICET-UNICEN. Argentina) antonela.tomasel@isistan.unicen.edu.ar 
+- _J. Andres Diaz-Pace_ (ISISTAN, CONICET-UNICEN. Argentina) andres.diazpace@isistan.unicen.edu.ar 
+
+
+A description of the software features and usage can be found in the project's [Wiki](https://github.com/tommantonela/ASPredictor/wiki).
 
